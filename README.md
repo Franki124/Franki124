@@ -3,7 +3,7 @@
 ## More info right down here:
 
 - 🌱 I’m currently learning Kotlin!
-- 📘 I'm studing Computer Science here [university]
+- 📘 I'm studing Computer Science [here]
 - 👯 I’m looking to start my Android development path
 - 🥅 2022 Goals: Become an Android developer
 - 🎮 Fun fact: I love to play videogames... a lot of them ;D
@@ -33,4 +33,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/michal-blachut/
-[university]: https://wsei.edu.pl/en
+[here]: https://wsei.edu.pl/en
