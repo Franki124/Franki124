@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning Kotlin!
 - 📘 I'm studing Computer Science [here]
-- 👯 I’m looking to start my Android development path
-- 🥅 2022 Goals: Become an Android developer
+- 👯 I’m looking to finish my college this year!
+- 🥅 2022 Goals: Learn more about mobile development
 - 🎮 Fun fact: I love to play videogames... a lot of them ;D
 
 ### Find me on linkedin:
@@ -18,7 +18,7 @@
 
 <img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Dart" width="26px" src="https://w7.pngwing.com/pngs/106833png-transparent-dart-logo-programming-language-computer-programming-android-text-logo-computer-programming-thumbnail.png" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
