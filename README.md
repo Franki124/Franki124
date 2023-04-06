@@ -2,10 +2,10 @@
 
 ## More info right down here:
 
-- 🌱 I’m currently learning Kotlin!
-- 📘 I'm studing Computer Science [here]
-- 👯 I’m looking to finish my college this year!
-- 🥅 2022 Goals: Learn more about mobile development
+- 🌱 I’m currently learning Flutter & Dart!
+- 📘 I'm studied Computer Science [here]
+- 👯 I’m looking to create my first Flutter apps this year!
+- 🥅 2023 Goals: Learn more about Flutter development
 - 🎮 Fun fact: I love to play videogames... a lot of them ;D
 
 ### Find me on linkedin:
@@ -25,7 +25,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
