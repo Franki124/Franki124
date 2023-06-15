@@ -3,9 +3,9 @@
 ## More info right down here:
 
 - 🌱 I’m currently learning Flutter & Dart!
-- 📘 I'm studied Computer Science [here]
+- 📘 I've studied Computer Science [here]
 - 👯 I’m looking to create my first Flutter apps this year!
-- 🥅 2023 Goals: Learn more about Flutter development
+- 🥅 2023 Goals: Learn more about Flutter development & start my masters here [masters] 
 - 🎮 Fun fact: I love to play videogames... a lot of them ;D
 
 ### Find me on linkedin:
@@ -34,3 +34,4 @@
 
 [linkedin]: https://www.linkedin.com/in/michal-blachut/
 [here]: https://wsei.edu.pl/en
+[masters]: https://www.pk.edu.pl/index.php?lang=en&template=pk18-tpl
