@@ -1,4 +1,4 @@
-### Howdy, I'm Michał a fellow mobile developer 👋 
+### Howdy, I'm Michał a fellow software engineer 👋 
 
 ## More info right down here:
 
